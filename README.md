@@ -5,6 +5,7 @@
 
 ---
 
+
 ## 📋 Instrucciones para la actividad
 
 - Resuelve cada ejercicio utilizando el tipo de función indicado.

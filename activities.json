@@ -15,7 +15,7 @@
         "activity": "Ejecutar un mensaje instantáneamente - Crea una función que imprima '¡Bienvenido!' en la consola al definirse. (Tipo de función: IIFE)",
         "solution": "ejercicios/ejercicio_04.js"
     },
-    {
+    { 
         "activity": "Contar vocales en una cadena - Crea una función que cuente las vocales (a, e, i, o, u) en una cadena. (Tipo de función: Función recursiva)",
         "solution": "ejercicios/ejercicio_05.js"
     },
